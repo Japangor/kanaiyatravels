@@ -1,0 +1,417 @@
+#full {width:950px; background-image:url(../Image/2.jpg);}
+#fbplikebox{display: block;padding: 0;z-index: 99999;position: fixed;}
+.fbplBedge {display: block;height: 150px;top: 50%;margin-top: -75px;position: absolute;left: -47px;width: 68px;background-image:url('../Image/enquiry.png');background-repeat: no-repeat;overflow: hidden;font-size:20px;-webkit-border-top-left-radius:10px;-webkit-border-bottom-left-radius:10px;}
+#fbplikebox2{display: block;padding: 0;z-index: 99999;position: fixed;}
+.fbplBedge2 {background-color:#0000FF;display: block;height: 150px;top: 50%;margin-top: -75px;position: absolute;left:250px;width: 47px;background-image: url('http://1.bp.blogspot.com/-PUYBb2326SY/T13eXFv1sPI/AAAAAAAABdE/VOqfHVMXhWk/s1600/w2b_vertical-right.png');background-repeat: no-repeat;overflow: hidden;-webkit-border-top-right-radius:10px;-webkit-border-bottom-right-radius:10px;}
+
+
+#divIndex1{
+width:184px;
+height:320px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divIndex1 H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divIndex1 a{color:#000000; text-decoration:none;}
+#divIndex1:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divIndex2{
+width:184px;
+height:320px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divIndex2 H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divIndex2 a{color:#000000; text-decoration:none;}
+#divIndex2:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divIndex3{
+width:184px;
+height:320px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divIndex3 H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divIndex3 a{color:#000000; text-decoration:none;}
+#divIndex3:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divInternational{
+width:184px;
+height:320px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);
+background: linear-gradient(white);
+background-color:#ffffff; font-family:"Times New Roman", Times, serif; font-size:13px}
+#divInternational h1 {color:003399; font-family:"Times New Roman", Times, serif; font-size:13px; word-spacing:normal; text-decoration:none;}
+#divInternational p{color:#000000; text-decoration:none;}
+#divInternational a{text-decoration:none}
+#divInternational:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticFixDeparture{
+width:184px;
+height:320px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticFixDeparture H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticFixDeparture a{color:#000000; text-decoration:none;}
+#divDomesticFixDeparture:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divLandingpage{
+width:184px;
+height:285px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divLandingpage H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divLandingpage H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divLandingpage H3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divLandingpage a{color:#000000; text-decoration:none;}
+#divLandingpage:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticKashmir{
+width:184px;
+height:265px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticKashmir H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticKashmir H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticKashmir H3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticKashmir a{color:#000000; text-decoration:none;}
+#divDomesticKashmir:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticLadakh{
+width:184px;
+height:260px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticLadakh H1{ font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticLadakh H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticLadakh a{color:#000000; text-decoration:none;}
+#divDomesticLadakh:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticHimachal{
+width:184px;
+height:285px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticHimachal H1{font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticHimachal H2{ font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticHimachal a{color:#000000; text-decoration:none;}
+#divDomesticHimachal:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticSouth{
+width:184px;
+height:260px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticSouth H1{font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticSouth H2{ font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticSouth a{color:#000000; text-decoration:none;}
+#divDomesticSouth:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticCentral{
+width:184px;
+height:250px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticCentral H1{font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticCentral H2{ font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticCentral a{color:#000000; text-decoration:none;}
+#divDomesticCentral:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticNorthEast{
+width:184px;
+height:275px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticNorthEast H1 {font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticNorthEast H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticNorthEast a{color:#000000; text-decoration:none;}
+#divDomesticNorthEast:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticWestZone{
+width:184px;
+height:265px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divDomesticWestZone H1 {font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divDomesticWestZone H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divDomesticWestZone a{color:#000000; text-decoration:none;}
+#divDomesticWestZone:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divDomesticSamudra{
+width:184px;
+height:280px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divFixDepartureSamudra h1 {color: #663300; font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; text-decoration:none;}
+#divDomesticSamudra h2 {color: #0000FF; font-family:"Times New Roman", Times, serif; font-size:15px; word-spacing:normal; text-decoration:none;}
+#divDomesticSamudra h3 {color: #333333; font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; text-decoration:none;}
+#divDomesticSamudra p{color:#000000; text-decoration:none;}
+#divDomesticSamudra a{text-decoration:none}
+#divDomesticSamudra:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divFixDepartureSamudra{
+width:184px;
+height:275px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divFixDepartureSamudra h1 {color: #663300; font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; text-decoration:none;}
+#divFixDepartureSamudra h2 {color: #0000FF; font-family:"Times New Roman", Times, serif; font-size:15px; word-spacing:normal; text-decoration:none;}
+#divFixDepartureSamudra h3 {color: #333333; font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; text-decoration:none;}
+#divFixDepartureSamudra p{color:#000000; text-decoration:none;}
+#divFixDepartureSamudra a{text-decoration:none}
+#divFixDepartureSamudra:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divFixDepartureline1{
+width:184px;
+height:305px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divFixDepartureline1 H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divFixDepartureline1 H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divFixDepartureline1 H3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divFixDepartureline1 a{color:#000000; text-decoration:none;}
+#divFixDepartureline1:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divFixDepartureline{
+width:290px;
+height:365px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;   font-size:13px}
+
+
+#divFixDepartureline3{
+width:184px;
+height:320px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divFixDepartureline3 H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divFixDepartureline3 a{color:#000000; text-decoration:none;}
+#divFixDepartureline3:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#FixDepartureInternational{
+width:184px;
+height:268px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#FixDepartureInternational H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#FixDepartureInternational H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#FixDepartureInternational H3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#FixDepartureInternational a{color:#000000; text-decoration:none;}
+#FixDepartureInternational:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divPilgrimage{
+width:184px;
+height:258px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divPilgrimage H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divPilgrimage H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divPilgrimage H3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divPilgrimage a{color:#000000; text-decoration:none;}
+#divPilgrimage:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divLandingTop{
+width:184px;
+height:287px;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);color:#000000;
+background: linear-gradient(white);
+background-color:#ffffff;  font-family:"Times New Roman", Times, serif; font-size:13px}
+#divLandingTop H1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divLandingTop H2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divLandingTop H3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divLandingTop a{color:#000000; text-decoration:none;}
+#divLandingTop:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divCustomized{
+width:184px;
+height: 302PX;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);
+background: linear-gradient(white);
+background-color:#ffffff; font-family:"Times New Roman", Times, serif; font-size:13px}
+#divCustomized h1 { font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; color:#0000FF; text-decoration:none;}
+#divCustomized h2 { font-family:"Times New Roman", Times, serif; font-size:14.5px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divCustomized h3 { font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; color:#333300; text-decoration:none;}
+#divCustomized p{color:#000000; text-decoration:none;}
+#divCustomized a{color:#000000; text-decoration:none;}
+#divCustomized:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+
+#divIndividiualnortheast{
+width:184px;
+height: 315PX;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);
+background: linear-gradient(white);
+background-color:#ffffff; font-family:"Times New Roman", Times, serif; font-size:13px}
+#divIndividiualnortheast h1 {color: #663300; font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; text-decoration:none;}
+#divIndividiualnortheast h2 {color: #0000FF; font-family:"Times New Roman", Times, serif; font-size:15px; word-spacing:normal; text-decoration:none;}
+#divIndividiualnortheast h3 {color: #333333; font-family:"Times New Roman", Times, serif; font-size:14px; word-spacing:normal; text-decoration:none;}
+#divIndividiualnortheast p{color:#000000; text-decoration:none;}
+#divIndividiualnortheast a{text-decoration:none}
+#divIndividiualnortheast:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+#divIndividiualladakh{
+width:184px;
+height: 315PX;
+border-radius: 10px 10px 10px 10px;
+border:1px solid #333333;
+background: -webkit-linear-gradient(white);
+background: linear-gradient(white);
+background-color:#ffffff; font-family:"Times New Roman", Times, serif; font-size:13px}
+#divIndividiualladakh h1 {color: #663300; font-family:"Times New Roman", Times, serif; font-size:13px; word-spacing:normal; text-decoration:none;}
+#divIndividiualladakh h2 {color: #0000FF;font-family:"Times New Roman", Times, serif;font-size:15px;word-spacing:normal;text-decoration:none;}
+#divIndividiualladakh h3 {color: #333333; font-family:"Times New Roman", Times, serif; font-size:13px; word-spacing:normal; text-decoration:none;}
+#divIndividiualladakh h4 {color: #666666; font-family:"Times New Roman", Times, serif; font-size:12px; word-spacing:normal; text-decoration:none;}
+#divIndividiualladakh p{color:#000000; text-decoration:none;}
+#divIndividiualladakh a{text-decoration:none}
+#divIndividiualladakh:hover{transition: all .7s ease-in-out;
+transform: scale(1.1);
+}
+
+#callto { font-size:22px; color:#0066FF; font-weight:bold;}
+#phoneno{ font-size:22px; color:#333300; font-weight:bold;}
+
+.img{ background-attachment:inherit;  background-position:center; border-radius: 10px 10px 10px 10px;  width:90% ; height:160px; transition: all .5s ease-in-out;}
+.img:hover{transform: scale(0.9); 
+}
+#title{background: -webkit-linear-gradient(yellow, red); background-color:Blue;color:#000000;
+background: linear-gradient(darkblue, grey);color:#FFFFFF; font-size:19px;}
+#title1{background: -webkit-linear-gradient(yellow, red); background-color:Blue;color:#000000; background: linear-gradient(darkblue, grey);color:#FFFFFF; font-size:19px; border-radius: 10px 10px 10px 10px;}
+
+
+#box1 {background-image:url(../Image/Index/4.png); background-position:center;width:312px; height:130px; color:yellow; border:solid 0px black;border-radius:10px 10px 10px 10px; font-size:28px; font-weight:bold; }
+#box1 a{font-family:font-family:"Times New Roman", Times, serif; color: #000066; font-size:28px; font-weight:bold; text-decoration:none;}
+
+#box2 {background-image:url(../Image/Index/5.png); background-position:center;width:312px; height:130px; color:yellow; border:solid 0px black;border-radius:10px 10px 10px 10px; font-size:28px; font-weight:bold; }
+#box2 a{font-family:font-family:"Times New Roman", Times, serif; color: #000000; font-size:28px; font-weight:bold;  text-decoration:none;}
+
+#box3 {background-image:url(../Image/Index/2.png); background-position:center;width:312px; height:130px; color:yellow; border:solid 0px black;border-radius:10px 10px 10px 10px; font-size:24px; font-weight:bold; }
+#box3 a{font-family:font-family:"Times New Roman", Times, serif; color: #FFFF00; font-size:25px; font-weight:bold;  text-decoration:none;}
+
+
+#slider1{border:solid #ffffff 0px; border-radius:10px 10px 20px 20px;}

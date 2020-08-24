@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+<script>$(window).load(function() {
+    $('#loading').hide();
+  });</script>
+<script type="text/javascript">
+$(document).ready(function () {
+    //Disable full page
+    $('body').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    });
+    
+    //Disable part of page
+    $('#id').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    });
+});
+</script>
+</head>
+<body>
+<center><div id="loading">
+  <img id="loading-image" src="Image/Spl/bar.gif" alt="Loading..." /><img id="loading-image" style="margin-left:-520px" src="Image/Spl/k.png" alt="Loading..." />
+</div></center>
+<h1>Not Found</h1>
+<p>The requested URL /gallery/advanced.html was not found on this server.</p>
+</body></html>

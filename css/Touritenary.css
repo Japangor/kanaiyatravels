@@ -1,0 +1,198 @@
+#Tourheader { font-family:font-family:"Times New Roman", Times, serif; color: #0000FF; font-weight:bold;font-size:18px;}
+#PlaceToVisit { font-family:font-family:"Times New Roman", Times, serif; color: #000000; font-weight:normal;font-size:15px;}
+#Tourtitle { font-family:font-family:"Times New Roman", Times, serif;
+	background-color:#0000FF;
+	color: #FFFFFF;
+	font-weight:bold;
+	font-size:20px;
+}
+#Nightdetail {font-family:font-family:"Times New Roman", Times, serif;
+	background: #99FFCC;
+	color: #000000;
+	font-weight:bold;
+	font-size:15px;
+}
+#dayandTourDetail {font-family:font-family:"Times New Roman", Times, serif; background:#66FFCC; color:#000000;font-size:15px;font-weight:bold;}
+#DayandDayTitle {font-family:font-family: serif; Times, serif; background:#CCFFFF; color:#000000;font-size:15px;font-weight:bold;}
+#Daydetail { font-family: Times New Roman; font-size:15.5px; color:#000000; font-weight:normal;}
+#SpecialNote {font-family:font-family:"Times New Roman", Times, serif;
+	background: #009966;
+	color: #FFFFFF;
+	font-weight:bold;
+	font-size:14px;
+}
+#SpecialTopic {font-family:font-family:"Times New Roman", Times, serif; background: #003366; color:#FFFFFF;font-size:15px;font-weight:bold;}
+#SpecialTopicDetail {font-family:font-family:"Times New Roman", Times, serif;
+	background: #FFFFFF;
+	color: #000000;
+	font-size:14px;
+	font-weight:normal;
+}
+#DepartureDate {font-family:font-family:"Times New Roman", Times, serif; background: #D8D8D8; color: #0033CC;font-size:14px;font-weight:bold;}
+#TourCostandHotelsName { font-family:font-family:"Times New Roman", Times, serif; background-color:#0000FF; color: #FFFFFF; font-weight:bold;font-size:17px;}
+#TourCostDestinationandHotelsName { font-family:font-family:"Times New Roman", Times, serif; background-color:#000000; color: #FFFFFF; font-weight:bold;font-size:16px;}
+#PriceDetail { font-family:font-family:"Times New Roman", Times, serif; background-color:#003366; color: #ffffff; font-weight:bold;font-size:14.5px;}
+#SubPriceDetail { font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #000066;
+	color: #FFFFFF;
+	font-weight:bold;
+	font-size:14.5px;
+}
+#Price { font-family:font-family:"Times New Roman", Times, serif; background-color:#FFFFCC; color: #000000; font-weight:bold;font-size:14.5px;}
+#Destination { font-family:font-family:"Times New Roman", Times, serif; background-color:#003366; color:#ffffff; font-weight:bold;font-size:14.5px;}
+#Hotelsname { font-family:font-family:"Times New Roman", Times, serif; background-color:#FFFFCC; color: #000000; font-weight:normal;font-size:14.5px;}
+#IncludeandExinclude { font-family:font-family:"Times New Roman", Times, serif;
+	background-color:#0000FF;
+	color: #FFFFFF;
+	font-weight:bold;
+	font-size:16px;
+}
+#TourcostIncludeandExinclude { font-family:font-family:"Times New Roman", Times, serif; background-color:#000000; color: #FFFFFF; font-weight:bold;font-size:15px;}
+#IncludeExincludedetail { font-family:font-family:"Times New Roman", Times, serif;
+	background-color:#FFFFFF;
+	color: #000000;
+	font-weight:normal;
+	font-size:14px;
+}
+#Note{ font-family:font-family:"Times New Roman", Times, serif;
+	background-color:#ffffff;
+	color: #000000;
+	font-weight:normal;
+	font-size:13px;
+}
+#TermsandCondition { font-family:font-family:"Times New Roman", Times, serif; background-color:#0000FF; color: #FFFFFF; font-weight:bold;font-size:20px;}
+#Terms{ font-family:font-family:"Times New Roman", Times, serif; background-color:#FFFFFF; color: #000000; font-weight:normal;font-size:15px;}
+#CancelatinChargesandLiability { font-family:font-family:"Times New Roman", Times, serif; background-color:#000000; color: #FFFFFF; font-weight:bold;font-size:16px;}
+#CancelatinDetail { font-family:font-family:"Times New Roman", Times, serif; background-color:#ffffff; color: #000000; font-weight:bold;font-size:17px;}
+#LiabilityDetail { font-family:font-family:"Times New Roman", Times, serif; background-color:#ffffff; color: #000000; font-weight:bold;font-size:15px;}
+#ClicktoLarge {cursor:pointer}
+#ImageName  {font-family:font-family:"Times New Roman", Times, serif; background:#CCFFFF; color: #666666; font-size:14px; font-weight:bold;}
+#BackPage {font-family:font-family:"Times New Roman", Times, serif; background-color: #99FFCC; color: #000033; font-size:14px; font-weight:bold;}
+#BackPage a{font-family:font-family:"Times New Roman", Times, serif; background:#99FFCC; color: #000033; font-size:14px; font-weight:bold; }
+#Welcome{font-family:font-family:"Times New Roman", Times, serif; background-image:url(../Image/2.jpg); color:#ffffff;font-size:22px;font-weight:bold;}
+#Welcome1{font-family:font-family:"Times New Roman", Times, serif; background-image:url(../Image/2.jpg); color:#ffffff;font-size:22px;font-weight:bold;}
+#FooterText {font-family:font-family:"Times New Roman", Times, serif; background-color:#000000; color: #FFFFFF; font-size:11px; font-weight:bold;}
+#FooterText  a{font-family:font-family:"Times New Roman", Times, serif; background:#000000; color: #FFFFFF; font-size:11px; font-weight:bold;}
+#LatestFixDepartureTour {font-family:font-family:"Times New Roman", Times, serif; background-image:url(../Image/2.jpg); color:#ffffff;font-size:22px;font-weight:bold;}
+#PageTitle {font-family:font-family:"Times New Roman", Times, serif; background-image:url(../Image/2.jpg); color: #FFFF00;font-size:26px;font-weight:bold;}
+#PageSubTitle {font-family:font-family:"Times New Roman", Times, serif;
+	background-color:#FFFFFF;
+	color: #000000;
+	font-size:21px;
+	font-weight:bold;
+}
+#TableTitle {font-family:font-family:"Times New Roman", Times, serif; background-color:#99FF99; color: #0000FF;font-size:20px;font-weight:bold;}
+#Contactdetail {font-family:font-family:"Times New Roman", Times, serif; background:#ffffff;color: #000000;font-size:16px;font-weight: bold;}
+#button{
+		background: #000033;
+        background-color: #6600006;
+        -webkit-border-top-left-radius: 8px;
+        -moz-border-radius-topleft: 8px;
+        border-top-left-radius: 8px;
+        -webkit-border-top-right-radius: 8px;
+        -moz-border-radius-topright: 8px;
+        border-top-right-radius: 8px;
+        -webkit-border-bottom-right-radius: 8px;
+        -moz-border-radius-bottomright: 8px;
+        border-bottom-right-radius: 8px;
+        -webkit-border-bottom-left-radius: 8px;
+        -moz-border-radius-bottomleft: 8px;
+        border-bottom-left-radius: 8px;
+        text-indent: 0;
+        border: 1px solid white;
+        display: inline-block;
+        color: #ffffff;
+        font-family:"Times New Roman", Times, serif;
+        font-size: 17px;
+        font-weight: bold;
+        font-style: normal;
+        height: 22px;
+		background-image:url(../Image/button/Untitled-1.png);
+		background-position:right ; background-repeat:no-repeat;
+		padding-right:13px;
+		padding-top:5px;
+padding-bottom:5px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+        #button:hover {
+            
+            background-color:#FF3366;
+        }
+
+        #button:active {
+            position: relative;
+            top: 1px;
+        }	
+
+
+#button1{
+        background-color: #0000ff;
+       
+        text-indent: 0;
+        border: 1px solid white;
+        display: inline-block;
+        color: #ffffff;
+        font-family: "Arial Narrow";
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        height: 17px;
+		background-position:right ; background-repeat:no-repeat;
+		padding-left:11px;
+		padding-right:11px;
+		padding-top:5px;
+padding-bottom:5px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+        #button1:hover {
+            
+            background-color:#FF3366;
+        }
+
+        #button1:focus {
+            position: relative;background-color:#FF3366;
+            top: 1px;
+        }	
+
+
+
+#button2{
+        background-color: #0066CC;
+       
+        text-indent: 0;
+        border: 1px solid white;
+        display: inline-block;
+        color: #ffffff;
+        font-family: "Arial Narrow";
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        height: 24px;
+		background-position:right ; background-repeat:no-repeat;
+		padding-left:11px;
+		padding-right:11px;
+		padding-top:5px;
+padding-bottom:5px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+        #button2:hover {
+            
+            background-color:#FF3366;
+        }
+
+        #button2:focus {
+            position: relative;background-color:#FF3366;
+            top: 1px;
+        }	
