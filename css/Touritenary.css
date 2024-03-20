@@ -1,0 +1,532 @@
+#Godname 
+{ font-family: Verdana, Geneva, sans-serif; color: #FF0; font-size:15px; font-weight:bold;  }
+
+#topheding 
+{ font-family: Arial, Helvetica, sans-serif; color: #FF0; font-size: 20px; background: #900;  font-weight:bold;  }
+
+.TourDayandNightTitle
+
+
+{ font-family: "Arial Black", Gadget, sans-serif; color: #900; font-weight:bold; font-size:23px; font-weight:bold;}
+
+.TourMainTitle 
+{font-size:34px; color: #009; font-family: "Arial Black", Gadget, sans-serif; font-weight:bold;}
+
+.TourSubTitle1
+{ font-family: Arial, Helvetica, sans-serif; color: #900; font-weight:bold; font-size:19px;}
+
+.difference
+{
+	font-family: "Bree Serif";
+	color: #00F;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.TourSubTitle
+{ font-family: "Arial Black"; color: #000; font-weight:bold; font-size:21px;}
+
+#Emtyline 
+{ font-family: Arial, Helvetica, sans-serif; color:#000; font-size:2px; background:#669966; }
+
+#Emtyline1 
+{ font-family: Arial, Helvetica, sans-serif; color:#FFF; font-size: 2px; background:#000;  }
+
+#VisitPlaces
+{font-family: Arial, Helvetica, sans-serif; color: #900; font-weight:bold; font-size:18.5px;}
+
+.Visitplace 
+{font-family: Arial, Helvetica, sans-serif; color: #636; font-weight:bold; font-size:17px;}
+
+#VisitPlaces1
+{
+	font-family: "Bree Serif";
+	color: #006;
+	font-weight:bold;
+	font-size:19px;
+}
+
+#VisitPlaces2
+{font-family: "Bree Serif"; color: #00F; font-weight:400; font-size:19px;}
+
+#Nightdetail 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #630;
+	font-weight:bold;
+	font-size:20px;
+}
+
+#Contactdetail { font-family: Arial, Helvetica, sans-serif; color: #630; font-weight:bold; font-size:18px; font-weight:bold;}
+
+.Contactdetail1
+{
+	font-family: "Arial Black";
+	color: #00F;
+	font-weight:bold;
+	font-size:28px;
+	font-weight:bold;
+}
+
+.Contactdetail2
+{ font-family: Arial, Helvetica, sans-serif; color: #630; font-weight:bold; font-size:16px; font-weight:bold;}
+
+#dayandTourDetail 
+{font-family:Arial, Helvetica, sans-serif;  background:#66FFCC; color:#000000;font-size:15.5px;font-weight:bold;}
+
+#DayandDayTitle
+{color: #000; background:#CF9; font-size: 15px; font-family: "Times New Roman"; font-weight:bold;}
+
+
+#DaydetailforChardham 
+{font-family: "Bree Serif";  font-size:17.5px; color: #000; font-weight: normal; }
+
+#DaydetailforKailash 
+{font-family: "Bree Serif";  font-size:16px; color: #000; font-weight: normal; }
+
+#Daydetailfor9Night10Days 
+{
+	font-family: "Bree Serif";
+	font-size:18px;
+	color: #000;
+	font-weight: normal;
+}
+
+#Daydetailfor8Night9Days
+{font-family: "Bree Serif"; font-size:17px; color: #000; font-weight: normal; }
+
+#Daydetailfor7Night8Days 
+{font-family: "Bree Serif"; font-size:17.5px; color: #000; font-weight: normal; }
+
+#Daydetailfor6Night7Days 
+{font-family: "Bree Serif"; font-size:18px; color: #000; font-weight: normal; }
+
+#Daydetail1
+{font-family: "Alegreya Sans Medium";font-weight: 500;font-size: 18px; color: #000;}
+
+#Daydetail2
+{ font-weight: 500; font-size: 18px; font-family: "Alegreya Sans"; color: #000;}
+
+#Daydetail3
+{font-weight: 400; font-size: 17px; font-family: "Acari Sans SemiBold"; color: #000;}
+
+#Daydetail4
+{font-weight: 400; font-size: 17px; font-family:Bahnschrift; color: #000;}
+
+#Daydetail5
+{font-weight: 400; font-size: 17px; font-family: Arial; color: #000;}
+
+#Daydetail6
+{font-family: "Times New Roman", Times, serif; font-size:17.3px; font-weight:500; color: #000;}
+
+#Departure 
+{font-family:"Times New Roman"; font-size: 17.5px;  background:#000066; color: #FF0; font-weight:bold;}
+
+#Departure1 
+{font-family:"Times New Roman"; font-size: 16.5px;  background: #666; color: #FF0; font-weight:bold;}
+
+#Downloadpdf
+{font-family:"Times New Roman"; font-size: 18px;  background:#930; color:#FF0; font-weight:bold; }
+
+#Downloadpdf a{text-decoration:none; color:#FF0;}
+
+#DownloadEnglishpdf
+{font-family:"Times New Roman"; font-size: 17.2px;  background: #FF0; color: #003; font-weight:bold; }
+
+#DownloadEnglishpdf a{text-decoration:none; color: #000;}
+
+#DownloadEnglishpdf1
+{font-family: "Arial Black"; font-size: 11.2px;  background:#FF0; color: #003; font-weight:bold; }
+#DownloadEnglishpdf1 a{text-decoration:none; color:#900;}
+
+
+.Date
+{
+	font-size:19px;
+	color: #FFF;
+	font-family: sans-serif;
+	font-weight:bold;
+}
+
+#ClicktoLarge 
+{cursor:pointer}
+
+#ImageName  
+{font-family:font-family:"Times New Roman", Times, serif; background:#CCFFFF; color: #666666; font-size:14px; font-weight:bold;}
+
+#TourCostandHotelsName 
+{font-family: "Times New Roman", Times, serif; background-color:#0000FF; color: #FFFFFF; font-weight:bold;font-size:17px;}
+
+#TourCostDestinationandHotelsName 
+{
+	font-family: Verdana, Geneva, sans-serif;
+	background-color:#000000;
+	color: #FF0;
+	font-weight:bold;
+	font-size:15.5px;
+}
+
+#PriceDetail 
+{
+	font-family:"Times New Roman", Times, serif;
+	background-color:#003366;
+	color: #ffffff;
+	font-size:16px;
+	font-weight: bold;
+}
+
+#Price 
+{
+	font-family:"Times New Roman", Times, serif;
+	background-color:#FFFFCC;
+	color:#333;
+	font-size:16px;
+	border-color: #666;
+	font-weight: bold;
+}
+
+#Destination 
+{
+	font-family:"Bree Serif";
+	background-color:#003366;
+	color: #ffffff;
+	font-size:16px;
+	border-color: #666;
+}
+
+#Hotelsname 
+{
+	background-color: #FFFFCC;
+	color: #333;
+	font-size: 15.5px;
+	font-family: "Bree Serif";
+}
+	
+#IncludeandExinclude 
+{ font-family: "Times New Roman", Times, serif; background-color:#0000FF; color: #FFFFFF; font-weight:bold;font-size:17px;}
+
+#TourcostIncludeandExinclude 
+{font-family: "Times New Roman", Times, serif; background-color:#000000; color:#FF0; font-weight:bold;font-size:15px;}
+
+#IncludeExincludedetail 
+{
+	font-family: "Bree Serif";
+	font-size:15px;
+	color: #333;
+	font-weight:bold;
+}
+
+#TermsandCondition
+{font-family: "Times New Roman", Times, serif; background-color:#0000FF; color: #FFFFFF; font-weight:bold;font-size:18px;}
+
+#Welcome
+{font-family:"Times New Roman", Times, serif;  color: #FFFF00; font-size:23px; font-weight:bold; background-image:url(../Image/2.jpg)}
+
+#SpecialNote 
+{font-family: "Times New Roman", Times, serif;  color: #003; font-weight:400; font-size:30px;}
+
+#Note1
+{
+	font-family:"Bree Serif";
+	color: #003;
+	font-size:14px;
+}
+
+#Note2
+{
+	font-family:"Bree Serif";
+	color: #666;
+	font-size:16px;
+	font-weight: bold;
+}
+
+#Note3
+{
+	font-family:"Bree Serif";
+	color: #FF0;
+	font-weight:bold;
+	font-size:18px;
+}
+
+#Note4
+{font-family:"Bree Serif";  color: #000000; font-weight:normal; font-size:16px;}
+
+#Note5
+{
+	font-family: "Times New Roman", Times, serif;
+	color: #900;
+	font-weight:600;
+	font-size:14px;
+}
+
+
+
+#Terms
+{ font-family:"Times New Roman", Times, serif; background-color:#FFFFFF; color: #000000; font-weight:normal;font-size:15px;}
+
+#Signature
+{ font-family:"Times New Roman", Times, serif; background-color:#FFFFFF; color: #000000; font-weight:normal;font-size:15px;}
+
+#CancelatinChargesandLiability 
+{ font-family:"Times New Roman", Times, serif; background-color:#000000; color: #FFFFFF; font-weight:bold;font-size:16px;}
+
+#CancelatinDetail 
+{ font-family:"Times New Roman", Times, serif; color: #333;  font-weight:bold;font-size:14px;}
+
+#LiabilityDetail 
+{ font-family:"Times New Roman", Times, serif; background-color:#ffffff; color: #000000; font-weight:bold;font-size:14px;}
+
+
+
+
+
+
+
+
+
+#PriceDetail1 { font-family:font-family:"Times New Roman", Times, serif; background-color: #FF0; color: #000; font-weight:bold;font-size:16px;}
+
+#PriceDetail2 { font-family:font-family:"Times New Roman", Times, serif; background-color: #003; color: #fff; font-weight:bold;font-size:16.1px;}
+
+#SubPriceDetail { font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #000066;
+	color: #FFFFFF;
+	font-weight:bold;
+	font-size:14.5px;
+}
+
+#BackPage {font-family:font-family:"Times New Roman", Times, serif; background-color: #99FFCC; color: #000033; font-size:14px; font-weight:bold;}
+
+#BackPage a{font-family:font-family:"Times New Roman", Times, serif; background:#99FFCC; color: #000033; font-size:14px; font-weight:bold; }
+
+#Welcome1{font-family:font-family:"Times New Roman", Times, serif; background-image:url(../Image/2.jpg); color:#ffffff;font-size:22px;font-weight:bold;}
+#FooterText {font-family:font-family:"Times New Roman", Times, serif; background-color:#000000; color: #FFFFFF; font-size:11px; font-weight:bold;}
+#FooterText  a{font-family:font-family:"Times New Roman", Times, serif;
+	color: #FFFFFF;
+	font-size:14px;
+	font-weight:bold;
+}
+#page{margin-top:-20px}
+#LatestFixDepartureTour {font-family:font-family:"Times New Roman", Times, serif; background-image:url(../Image/2.jpg); color:#ffffff;font-size:22px;font-weight:bold;}
+#PageTitle {font-family:font-family:"Times New Roman", Times, serif;
+	background-image:url(../Image/2.jpg);
+	font-size:24px;
+	font-weight:bold; color:#FF0;
+}
+#PageTitle4 {font-family:font-family:"Times New Roman", Times, serif;
+	background-image:url(../Image/2.jpg);
+	font-size:24px;
+	font-weight:bold; color:#FF0;
+}
+
+#GroupPageTitle {font-family:font-family:"Times New Roman", Times, serif;
+	background-image:url(../Image/2.jpg);
+	font-size:19.5px;
+	font-weight:bold; color:#FF0;
+}
+
+#CustomizePageTitle {font-family:font-family:"Times New Roman", Times, serif;
+	background-image:url(../Image/2.jpg);
+	font-size:19.5px;
+	font-weight:bold; color:#FF0;
+}
+
+#PageTitle2 {font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #000000; 
+	font-size:22.5px;
+	font-weight:bold; color:#FF0;
+}
+#PageTitle1 {font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #996600;
+font-size:19.px;
+	font-weight:bold;
+	color:#FF0;
+	font-size: 24px;
+}
+#PageSubTitle {font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #0000FF;
+	color: #ffffff;
+	font-size:21px;
+	font-weight:bold;
+}
+#PageSubTitleIndividiual {font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #003;
+	color: #FFFF00;
+	font-size:21px;
+	font-weight:bold;
+}
+#PageSubTitleIndividiual2 {font-family:font-family:"Times New Roman", Times, serif;
+	background-color: #660;
+	color:#fff;
+	font-size:21px;
+	font-weight:bold;
+}
+#TableTitle {font-family:font-family:"Times New Roman", Times, serif; background-color:#99FF99; color: #0000FF;font-size:20px;font-weight:bold;}
+
+
+
+#button{
+		background: #000033;
+        background-color: #6600006;
+        -webkit-border-top-left-radius: 8px;
+        -moz-border-radius-topleft: 8px;
+        border-top-left-radius: 8px;
+        -webkit-border-top-right-radius: 8px;
+        -moz-border-radius-topright: 8px;
+        border-top-right-radius: 8px;
+        -webkit-border-bottom-right-radius: 8px;
+        -moz-border-radius-bottomright: 8px;
+        border-bottom-right-radius: 8px;
+        -webkit-border-bottom-left-radius: 8px;
+        -moz-border-radius-bottomleft: 8px;
+        border-bottom-left-radius: 8px;
+        text-indent: 0;
+        border: 1px solid white;
+        display: inline-block;
+        color: #ffffff;
+        font-family:"Times New Roman", Times, serif;
+        font-size: 17px;
+        font-weight: bold;
+        font-style: normal;
+        height: 22px;
+		background-image:url(../Image/button/Untitled-1.png);
+		background-position:right ; background-repeat:no-repeat;
+		padding-right:13px;
+		padding-top:5px;
+padding-bottom:5px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+        #button:hover {
+            
+            background-color:#FF3366;
+        }
+
+        #button:active {
+	position: relative;
+	top: 1px;
+	font-weight: normal;
+	font-size: 14px;
+        }	
+
+
+#button1{
+        background-color:#000033;
+      
+        text-indent: 0;
+        border:1px solid white;
+        display:inline-block;
+        color:#ffffff;
+        font-family: "Arial Narrow";
+        font-size:14px;
+        font-weight:bold;
+        font-style:normal;
+        height:22px;
+		background-position:right ; background-repeat:no-repeat;
+		padding-left:11px;
+		padding-right:11px;
+		padding-top:4px;
+padding-bottom:4px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+        #button1:hover {
+            
+            background-color:#666633;
+        }
+
+        #button1:focus {
+          background-color:#666633;
+            top: 1px;
+        }	
+
+
+
+#button2{
+        background-color: #0066CC;
+       
+        text-indent: 0;
+        border: 1px solid white;
+        display: inline-block;
+        color: #ffffff;
+        font-family: "Arial Narrow";
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        height: 24px;
+		background-position:right ; background-repeat:no-repeat;
+		padding-left:11px;
+		padding-right:11px;
+		padding-top:5px;
+padding-bottom:5px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+    
+	#button3{
+        background-color:#00F;
+      
+        text-indent: 0;
+        border:1px solid white;
+        display:inline-block;
+        color:#ffffff;
+        font-family: Arial black;
+        font-size:14.5px;
+        font-weight:bold;
+        font-style:normal;
+        height:22px;
+		background-position:right ; background-repeat:no-repeat;
+		padding-left:11px;
+		padding-right:11px;
+		padding-top:6px;
+padding-bottom:4px;
+        width: auto;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+
+
+#EnglishNoteSample
+{
+	font-family:"Bree Serif";
+	color: #000000;
+	font-size:15.5px;
+	font-weight: bold;
+}
+
+
+#gujaratiNote1 
+{
+	font-family: "Baloo Bhai 2";
+	color:#333;
+	font-size:14.5px;
+	font-weight:600;
+}
+#gujaratiDaydetailfor9Night10Days
+{
+	font-family:"Baloo Bhai 2";
+	color: #000;
+	font-size:17px;
+	font-weight: 550;
+}
+
+
+#PriceDetailGujarati
+{
+	font-family: "Baloo Bhai 2";
+	color:#fff;
+	font-size:15.5px;
+	font-weight: bold;
+	background-color: #036;
+}

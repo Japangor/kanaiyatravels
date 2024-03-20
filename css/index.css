@@ -1,0 +1,260 @@
+#fbplikebox{display: block;padding: 0;z-index: 99999;position: fixed;}
+.fbplBedge {display: block;height: 150px;top: 50%;margin-top: -75px;position: absolute;left: -47px;width: 68px;background-image:url('../Image/enquiry.png');background-repeat: no-repeat;overflow: hidden;font-size:20px;-webkit-border-top-left-radius:10px;-webkit-border-bottom-left-radius:10px;}
+#fbplikebox2{display: block;padding: 0;z-index: 99999;position: fixed;}
+.fbplBedge2 {background-color:#0000FF;display: block;height: 150px;top: 50%;margin-top: -75px;position: absolute;left:250px;width: 47px;background-image: url('http://1.bp.blogspot.com/-PUYBb2326SY/T13eXFv1sPI/AAAAAAAABdE/VOqfHVMXhWk/s1600/w2b_vertical-right.png');background-repeat: no-repeat;overflow: hidden;-webkit-border-top-right-radius:10px;-webkit-border-bottom-right-radius:10px;}
+body,article *{box-sizing:border-box;-moz-box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;zoom:1}.image-box.style5 figure,.image-box.style11 figure{position:relative;overflow:hidden;cursor:pointer;z-index:0}
+.fa {
+  padding:10px;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+a:link{ text-decoration:none}
+.float{
+	position:fixed;
+	width:44px;
+	height:45px;
+	bottom:70px;
+	LEFT:9.5px;
+	background-color:#090;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{	
+margin-left: -6px;
+margin-top:  -2px;
+width:40px
+}
+
+
+#PageTitle td{
+  position: sticky;
+  top: 145px;}
+  
+#PageTitle4 td{
+  position: sticky;
+  top: 114px;}  
+  
+#GroupPageTitle td{
+  position: sticky;
+  top: 110px;}
+  
+#CustomizePageTitle td{
+  position: sticky;
+  top: 107px;}
+  
+
+#GroupTour article{width:280px; height:444px; background-color: #FFFFFF; border-color:#CCC; border-width:2px;}
+#GroupTour .DayNight{font-size:16px; color:#636; font-weight:bold; font-family:serif;}
+#GroupTour .Destination{font-size:14.2px; color:#900; font-weight:bold;font-family:serif;}
+#GroupTour .Space1px{ font-size:1px; color:#FFFFCC;}
+#GroupTour .TourTitile {font-size:17px; color: #0000FF; font-family:serif; font-weight: bold;}
+#GroupTour .SubTitile{ font-size:15.5px; color: #900; font-weight:bold;}
+#GroupTour .SpecialNote{ font-size:14px;color:#000; font-family:serif;}
+#GroupTour .Space13px{ font-size:14px; font-family:serif; font-weight:bold;color:#FFFFCC;}
+#GroupTour .Night{font-size:15px; color: #630; font-weight:bold; font-family:serif;}
+#GroupTour .price{font-size:15.5px;color: #000033; font-weight:bold;}
+#GroupTour .Food{font-size:15px; color:#669; font-weight:bold; font-family:serif;}
+#GroupTour .Hotels{font-size:14.8px; color:#033; font-weight:bold; font-family:serif;}
+#GroupTour .Departure{ font-size:13.5px;color:#000;}
+#GroupTour .Date{ font-size:14px;color:#00F; text-align: center;}
+#GroupTour .Space4px{ font-size:4px; color:#FFFFCC;}
+#GroupTour .img{width:280px; height:192px;}
+
+
+
+
+#line1 .TourHeading {font-size:16px; color: #0000FF; font-family:Geneva, Arial, Helvetica, sans-serif ;}
+#line1 article{width:280px; height:425px; background-color: #FFFFCC; border-color:#CCC; border-width:2px;}
+#line1 .htsprice{color:#fff; font-family:Arial, Helvetica, sans-serif; left:auto; font-weight:bold; font-size:14px;padding:5px;}
+#line1 figcaption ul li{display:inline;font-size:14px; color:#FF0}
+#line1 #headertitle{font-size:14px ; color:#FF0;}
+#line1 #destination{font-size:11.5px ; color: #FFF;}
+#line1 #daynight{font-size:18px ; color: #FFF;}
+#line1 #msg{font-size:10px ; color: #FF0;}
+#line1 #msg1{font-size:13px ; color: #FFF;}
+#line1 #tourtitile{font-size:15.5px;color:#800000;font-weight:bold;}
+#line1 .subtitile{font-size:12.5px; color:#339966; font-weight:bold; font-family:}
+#line1 .price-small1{font-size:14.5px;color:#666699; font-weight:bold;}
+#line1 .price-small2{font-size:14.5px; color: #336699; font-weight:bold}
+#line1 .price-small3{font-size:12.8px ; color:#669;}
+#line1 .price-small4{font-size:14.5px ; color:#aa381e;}
+#line1 .price-small5{ font-size:14px;color:#00F; text-align:left;}
+#line1 .price-small6{ font-size:13.5px;color:#000;}
+#line1 .price-small7{ font-size:13.5px;color:#666633;}
+#line1 .price-small8{ font-size:14.5px;color:#000;}
+#line1 .img{width:280px; height:216px;}
+
+.pricetag{background:#336666 repeat scroll 0 0;left:15px; padding:5px; position:absolute; top:10px; opacity:0.9}
+.price-small{color:#930}
+.pricetag{left:0}
+.container{height:100%}
+
+#line2 .TourHeading {font-size:16px; color: #0000FF; font-family:Geneva, Arial, Helvetica, sans-serif;}
+#line2 article{width:280px; height:405px; background-color: #FFFFCC; border-color:#CCC; border-width:2px;}
+#line2 .htsprice{color:#fff; font-family:Arial; left:auto; font-weight:bold; font-size:14.5px;padding:5px;}
+#line2 figcaption ul li{display:inline;font-size:14px; color:#FF0}
+#line2 #headertitle{font-size:14px ; color:#FF0;}
+#line2 #destination{font-size:11.5px ; color: #FFF;}
+#line2 #daynight{font-size:18px ; color: #FFF;}
+#line2 #msg{font-size:10px ; color: #FF0;}
+#line2 #msg1{font-size:13px ; color: #FFF;}
+#line2 #tourtitile{font-size:15.5px;color:#800000;font-weight:bold;}
+#line2 .subtitile{font-size:12.5px; color:#339966; font-weight:bold; font-family:}
+#line2 .price-small1{font-size:14.5px;color:#666699; font-weight:bold;}
+#line2 .price-small2{font-size:14.5px; color: #336699; font-weight:bold}
+#line2 .price-small3{font-size:12.8px ; color:#669;}
+#line2 .price-small4{font-size:14.5px ; color:#aa381e;}
+#line2 .price-small5{ font-size:14px;color:#00F; text-align:left;}
+#line2 .price-small6{ font-size:13.5px;color:#000;}
+#line2 .price-small7{ font-size:13.5px;color:#666633;}
+#line2 .price-small8{ font-size:14.5px;color:#000;}
+#line2 .img{width:280px; height:216px;}
+
+
+
+#line3 .TourHeading {font-size:16px; color:#990; font-family:Arial, Helvetica, sans-serif;; serif }
+#line3 article{border:solid thin; border-color: #6FF; width: 280px; height: 433px;}
+#line3 .htsprice{color:#fff; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:16px;padding:5px}
+#line3 figcaption ul li{display:inline;font-size:14px; color:#FF0}
+#line3 #headertitle{font-size:14px ; color:#FF0;}
+#line3 #destination{font-size:11.5px ; color: #FFF;}
+#line3 #daynight{font-size:18px ; color: #FFF;}
+#line3 #msg{font-size:10px ; color: #FF0;}
+#line3 #msg1{font-size:13px ; color: #FFF;}
+#line3 #tourtitile{font-size:15.5px;color:#800000;font-weight:bold;}
+#line3 .subtitile{font-size:13.70px; color: #360;font-weight:bold}
+#line3 .Start{font-size:14.50px; color: #00F; font-weight:bold}
+#line3 .price-small1{font-size:16px;color: #003;font-weight:bold;}
+#line3 .price-small2{font-size:15px; color: #600;font-weight:bold}
+#line3 .price-small3{font-size:14px ; color:#669;}
+#line3 .price-small4{font-size:14.5px ; color:#aa381e;}
+#line3 .price-small5{
+	font-size:14px;
+	color: #00F;
+	text-align: left;
+}
+#line3 .price-small6{
+	font-size:13.5px;
+	color:#000;
+}
+#line3 .img{width:280px; height:216px;}
+
+#line4 .TourHeading {font-size:14.5px; color: #0000FF; font-family:Geneva, Arial, Helvetica, sans-serif ;}
+#line4 article{width:280px; height:405px; background-color: #FFFFCC; border-color:#CCC; border-width:2px;}
+#line4 .htsprice{color:#fff; font-family:Arial, Helvetica, sans-serif; left:auto; font-weight:bold; font-size:14px;padding:5px;}
+#line4 figcaption ul li{display:inline;font-size:14px; color:#FF0}
+#line4 #headertitle{font-size:14px ; color:#FF0;}
+#line4 #destination{font-size:11.5px ; color: #FFF;}
+#line4 #daynight{font-size:18px ; color: #FFF;}
+#line4 #msg{font-size:10px ; color: #FF0;}
+#line4 #msg1{font-size:13px ; color: #FFF;}
+#line4 #tourtitile{font-size:15.5px;color:#800000;font-weight:bold;}
+#line4 .subtitile{font-size:12.5px; color:#339966; font-weight:bold; font-family:}
+#line4 .price-small1{font-size:14.5px;color:#666699; font-weight:bold;}
+#line4 .price-small2{font-size:14.5px; color: #336699; font-weight:bold}
+#line4 .price-small3{font-size:12.8px ; color:#669;}
+#line4 .price-small4{font-size:14.5px ; color:#aa381e;}
+#line4 .price-small5{ font-size:14px;color:#00F; text-align:left;}
+#line4 .price-small6{ font-size:13.5px;color:#000;}
+#line4 .price-small7{ font-size:13.5px;color:#666633;}
+#line4 .price-small8{ font-size:14.5px;color:#000;}
+#line4 .img{width:280px; height:216px;}
+
+
+
+#Customize article{width:280px; height:400px; background-color: #FFFFFF; border-color:#CCC; border-width:2px;}
+#Customize .img{width:280px; height:192px;}
+#Customize .price-small2{  font-size:15.4px; color:#003; font-weight:bold}
+#Customize .TourHeading {font-size:15px; color: #0000FF; font-family:Geneva, Arial, Helvetica, sans-serif;}
+#Customize .price-small7{ font-size:13.5px;color:#FFFFCC;}
+#Customize .price-small8{ font-size:14px;color:#000;}
+#Customize .price-small9{ font-size:4px; color:#FFFFCC;}
+#Customize .subtitile{ font-size:13px; color: #036; font-weight:bold;}
+#Customize .price-small1{font-size:14px;color: #000033; font-weight:bold;}
+#Customize .price-small3{font-size:14px ; color:#663333;}
+#Customize .price-small10{  font-size:16px; color:#FFFF00;}
+#Customize .price-smal20{ font-size:14px; color: #630;}
+
+
+#Customize1 article{width:222px; height:373px; background-color: #FFFFCC; border-color:#CCC; border-width:2px;}
+#Customize1 .img{width:222px; height:165px;}
+#Customize1 .price-small2{  font-size:15.4px; color:#003; font-weight:bold}
+#Customize1 .TourHeading {font-size:15px; color: #0000FF; font-family:Geneva, Arial, Helvetica, sans-serif;}
+#Customize1 .price-small7{ font-size:13.5px;color:#FFFFCC;}
+#Customize1 .price-small8{ font-size:14px;color:#000;}
+#Customize1 .price-small9{ font-size:4px; color:#FFFFCC;}
+#Customize1 .subtitile{ font-size:13px; color: #036; font-weight:bold;}
+#Customize1 .price-small1{font-size:14px;color: #000033; font-weight:bold;}
+#Customize1 .price-small3{font-size:14px ; color:#663333;}
+#Customize1 .price-small10{  font-size:16px; color:#FFFF00;}
+#Customize1 .price-smal20{ font-size:14px; color: #630;}
+
+
+
+
+
+#Customize3 .TourHeading {font-size:16px; color: #0000FF; font-family:Geneva, Arial, Helvetica, sans-serif;}
+#Customize3 article{width:276.25px; height:380px; background-color: #FFFFCC; border-color:#CCC; border-width:2px;}
+#Customize3 .htsprice{color:#fff; font-family:Arial; left:auto; font-weight:bold; font-size:14.5px;padding:5px;}
+#Customize3 figcaption ul li{display:inline;font-size:14px; color:#FF0}
+#Customize3 #headertitle{font-size:14px ; color:#FF0;}
+#Customize3 #destination{font-size:11.5px ; color: #FFF;}
+#Customize3 #daynight{font-size:18px ; color: #FFF;}
+#Customize3 #msg{font-size:10px ; color: #FF0;}
+#Customize3 #msg1{font-size:13px ; color: #FFF;}
+#Customize3 #tourtitile{font-size:15.5px;color:#800000;font-weight:bold;}
+#Customize3 .subtitile{ font-size:13px; color:#000; font-weight:bold;}
+#Customize3 .price-small1{font-size:14px;color: #000033; font-weight:bold;}
+#Customize3 .price-small2{  font-size:15.4px; color:#003; font-weight:bold}
+#Customize3 .price-small3{font-size:14px ; color:#663333;}
+#Customize3 .price-small4{font-size:14.5px ; color:#aa381e;}
+#Customize3 .price-small5{ font-size:14px;color:#00F; text-align:left;}
+#Customize3 .price-small6{ font-size:13.5px;color:#000;}
+#Customize3 .price-small7{ font-size:13.5px;color:#FFFFCC;}
+#Customize3 .price-small8{ font-size:14px;color:#000;}
+#Customize3 .price-small9{ font-size:4px; color:#FFFFCC;}
+#Customize3 .price-small10{  font-size:16px; color:#FFFF00;}
+#Customize3 .img{width:276.25px; height:165px;}
+
+
+#Presantetion article{width:280px; height:460px; background-color: #FFFFFF; border-color:#CCC; border-width:2px;}
+#Presantetion .DayNight{font-size:18px; color:#636; font-weight:bold; font-family:serif;}
+#Presantetion .Destination{font-size:14.2px; color:#900; font-weight:bold;font-family:serif;}
+#Presantetion .Space1px{ font-size:1px; color:#FFFFCC;}
+#Presantetion .TourTitile {font-size:24px; color: #0000FF; font-family: "Arial Black"; font-weight: bold;}
+#Presantetion .SubTitile{ font-size:15.5px; color: #900; font-weight:bold;}
+#Presantetion .SpecialNote{ font-size:15px;color:#000; font-family:serif;}
+#Presantetion .Space13px{ font-size:14px; font-family:serif; font-weight:bold;color:#FFFFCC;}
+#Presantetion .Night{font-size:16px; color: #630; font-weight:bold; font-family:serif;}
+#Presantetion .price{font-size:18px;color: #000033; font-weight:bold;}
+#Presantetion .Food{font-size:15px; color:#669; font-weight:bold; font-family:serif;}
+#Presantetion .Hotels{font-size:14.8px; color:#033; font-weight:bold; font-family:serif;}
+#Presantetion .Departure{ font-size:13.5px;color:#000;}
+#Presantetion .Date{ font-size:14px;color:#00F; text-align: center;}
+#Presantetion .Space4px{ font-size:4px; color:#FFFFCC;}
+#Presantetion .img{width:280px; height:150px;}
